@@ -116,6 +116,6 @@ function Click(event){
     let newFith=Fithteen();
     newFith.push("");
     if (newFith.toString()===mix.toString()){
-        alert("you win");
+        alert("you won");
     }
 }

@@ -1,6 +1,9 @@
-/*.body{
-    background: linear-gradient(green,purple,75deg);
-}*/
+.body{
+    /*background: linear-gradient(green,purple,75deg);*/
+    text-align: center;
+    width:1200px;
+    max-width: 100%;
+}
 
 .ch15{
     margin-left: auto;
@@ -36,4 +39,5 @@
 .rules{
     font-size: 20px;
     text-align: center,justify;
+    margin: 0 auto;
 }
